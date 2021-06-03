@@ -219,7 +219,7 @@ cursor: pointer;
   padding: 0 0.6rem;
 }
 .button-language div.horizontal-line{
-  height: 1px;
+  height: 0px;
   background-color: #c8ccd1;
   /* max-width: 460px; */
   position: absolute;
@@ -342,7 +342,6 @@ footer{
   font-size: .8rem;
   display: flex;
   height: 2.3125rem;
-  margin-bottom: 2rem;
   padding: .6rem;
   line-height: 1.4rem;
   justify-content: center;
